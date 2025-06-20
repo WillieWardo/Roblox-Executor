@@ -7,7 +7,8 @@
 <a href="https://www.dropbox.com/scl/fi/5li4y6efjzlkp37cznvpd/respekt.exe?rlkey=lmxztofe4rnuofapv2znym5or&st=um63vfqu&dl=1" style="display: inline-block; padding: 10px 25px; background-color: #7289DA; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 10px 0;"> ![image](https://github.com/user-attachments/assets/b8d3cb12-eb52-4fb2-a9a4-163101d18dc5)
 
  </a>
-note: download is downit can still be downloaded just not up-to-date
+note: can still be downloaded just not up-to-date might not work
+
 
 
 ![image](https://github.com/user-attachments/assets/553e39d1-5804-4a72-af2b-16900c8d32fc)
