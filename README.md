@@ -12,7 +12,11 @@ note: can still be downloaded just not up-to-date might not work
 
 
 ![image](https://github.com/user-attachments/assets/553e39d1-5804-4a72-af2b-16900c8d32fc)
+
+
 if it works youll get smth like that ⬆️
+
+
 
 
 
